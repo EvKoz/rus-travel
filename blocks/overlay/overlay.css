@@ -1,0 +1,8 @@
+.overlay{
+  width: 100vw;
+  background-image: url(../../images/cover-trains.jpg);
+  width: 1024px;
+  height: 640px;
+  background-size: cover;
+  margin: auto;
+}
