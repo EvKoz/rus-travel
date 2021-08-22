@@ -1,4 +1,4 @@
-.overlay__text {
-  margin: auto;
-  text-align: center;
+.overlay__text{
+  max-width: 360px;
+  margin: 0 auto;
 }

@@ -1,0 +1,14 @@
+.places__grid{
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  display: grid;
+  gap: 2em;
+  max-width: 984px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  grid-template-columns: 460px auto;
+  grid-template-rows: repeat (3, auto);
+  align-items: start;
+  margin: 80px auto;
+}

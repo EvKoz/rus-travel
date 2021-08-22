@@ -1,0 +1,19 @@
+.places__link-prefix{
+  margin: 0;
+  font-family: Inter;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 400;
+  max-height: 30px;
+}
+
+.places__link-adress{
+  font-family: Inter;
+  line-height: 22px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.places__link{
+  align-self: end;
+}

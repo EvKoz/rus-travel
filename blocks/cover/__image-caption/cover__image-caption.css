@@ -1,0 +1,10 @@
+.cover__image-caption{
+  text-transform: uppercase;
+  color: white;
+  display: flex;
+  margin: 8px 0;
+  max-width: 158px;
+  max-height: 14px;
+  font-size: 10px;
+  line-height: 14px;
+}

@@ -1,0 +1,12 @@
+.header__langmenu{
+display: flex;
+margin: 46px 48px 0 auto;
+}
+
+.header__langform_ru{
+margin-right: 18px;
+}
+
+.header__langform_en{
+
+}
