@@ -1,0 +1,17 @@
+.header__lang-link{
+  color: white;
+  max-width: 178px;
+  max-height: 28px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.header__lang-link input[type=radio] {
+  display: none;
+}
+
+.header__lang-link input[type=radio]:checked + label {
+  text-decoration: underline;
+}

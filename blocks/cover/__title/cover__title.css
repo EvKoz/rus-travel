@@ -1,11 +1,4 @@
 .cover__title{
-  display: flex;
-  margin: 56px auto 0;
-  text-align: center;
-  color: white;
-  max-width: 720px;
-  max-height: 200px;
-  font-size: 96px;
-  font-weight: 900;
-  justify-content: center;
+  margin: 245px auto 32px;
+  max-width: 560px;
 }

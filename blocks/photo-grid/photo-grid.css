@@ -1,30 +1,3 @@
-.main{
-  margin: 92px auto 0;
-  width: 93%;
-    /*border: 3px solid thistle;*/
-}
-
 .photo-grid{
-  /*border: 3px solid red;*/
-  }
-
-.photo-grid-list{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  /*list-style-type: none;*/
-  grid-area: photo-grid;
-  gap: 16px;
-  padding: 0;
-  margin: 0;
-  /*border: 3px solid orange;*/
-  }
-
-.photo-grid-item{
- /*border: 3px solid green;*/
-  }
-
-.photo-grid__image{
-width: 100%;
-height: 100%;
-  /*border: 3px solid blue;*/
- }
+  margin: 92px auto 0;
+}

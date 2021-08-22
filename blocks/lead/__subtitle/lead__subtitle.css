@@ -1,0 +1,11 @@
+.lead__subtitle{
+  display: flex;
+  margin: 32px auto 0;
+  color: white;
+  max-width: 640px;
+  max-height: 72px;
+  justify-content: center;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+}
