@@ -34,9 +34,9 @@
 @import url(../blocks/footer/__link/footer__link-list.css);
 
 
-/*a, ul, li, section, nav, div, body, label, h1, h2, h3, p, img, figure, header, form{
+a, ul, li, section, nav, div, body, label, h1, h2, h3, p, img, figure, header, form{
 border: 1px solid red;
-}*/
+}
 
 a:hover{
   cursor: pointer;
@@ -57,31 +57,4 @@ body{
   font-family: 'Inter';
   src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Bold.woff2);
   font-weight: bold;
-}
-
-@media only screen and (max-width: 320px){
-.page{
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-areas:
-'header'
-'cover'
-'intro'
-'photo-grid'
-'places'
-'overlay'
-'footer';
-}
-
-.photo-grid{
-  grid-template-columns: 1fr;
-
-}
-
-.photo-grid__image{
-
-}
-
-.places__grid{
-  grid-template-columns: 1fr;
 }

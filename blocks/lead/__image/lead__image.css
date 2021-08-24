@@ -4,3 +4,15 @@
   margin: 64px auto 0;
   display: flex;
 }
+
+@media (max-width: 1024px) {
+  .lead__image{
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead__image{
+    max-width: 738px;
+}
+}

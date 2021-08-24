@@ -12,3 +12,15 @@
   align-items: start;
   margin: 80px auto;
 }
+
+@media (max-width: 1024px) {
+  .places__grid{
+    max-width: 928px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .places__grid{
+      max-width: 720px;
+      }
+    }

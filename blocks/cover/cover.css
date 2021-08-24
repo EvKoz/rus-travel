@@ -8,3 +8,9 @@
   min-height: 740px;
   grid-area: cover;
 }
+
+@media (max-width: 1024px) {
+  .cover{
+    max-width: 1024px;
+    }
+  }
