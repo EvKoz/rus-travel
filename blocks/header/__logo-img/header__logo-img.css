@@ -5,3 +5,13 @@
   align-items: flex-end;
   margin: 28px auto auto 48px;
 }
+
+
+@media (max-width: 320px) {
+  .header__logo-img{
+  max-width: 142px;
+  max-height: 42px;
+  margin: 16px 0 0 16px;
+}
+}
+

@@ -10,3 +10,10 @@ margin-right: 18px;
 .header__lang-menu_en{
 
 }
+
+
+@media (max-width: 320px) {
+  .header__lang-menu{
+    margin: 30px 16px 0 auto;
+    }
+  }
