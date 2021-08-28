@@ -5,3 +5,11 @@
   line-height: 18px;
   margin: 0;
 }
+
+@media (max-width: 320px) {
+  .footer__link-list{
+    flex-direction: column;
+    margin: 0;
+    max-width: 320px;
+    }
+  }
