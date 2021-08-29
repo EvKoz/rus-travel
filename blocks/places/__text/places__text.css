@@ -1,4 +1,4 @@
-.places__text{
+.places__text {
   margin: 0;
   font-family: Inter;
   line-height: 29.34px;
@@ -7,14 +7,14 @@
 }
 
 @media (max-width: 768px) {
-  .places__text{
+  .places__text {
     line-height: 26.08px;
-  font-size: 16px;
-    }
+    font-size: 16px;
   }
+}
 
-  @media (max-width: 320px) {
-    .places__text{
-      max-width: 288px;
-      }
-    }
+@media (max-width: 320px) {
+  .places__text {
+    max-width: 288px;
+  }
+}

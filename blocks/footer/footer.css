@@ -1,4 +1,4 @@
-.footer{
+.footer {
   color: white;
   display: flex;
   flex-direction: row;
@@ -9,20 +9,21 @@
 }
 
 @media (max-width: 1024px) {
-  .footer{
+  .footer {
     margin: 92px 48px 24px;
-    }
   }
+}
 
-  @media (max-width: 768px) {
-    .footer{
-      margin: 92px 24px 24px;
-      }
-    }
-    @media (max-width: 320px) {
-      .footer{
-        flex-direction: column;
-        margin: 0;
-        max-width: 320px;
-        }
-      }
+@media (max-width: 768px) {
+  .footer {
+    margin: 92px 24px 24px;
+  }
+}
+
+@media (max-width: 320px) {
+  .footer {
+    flex-direction: column;
+    margin: 0;
+    max-width: 320px;
+  }
+}

@@ -1,4 +1,4 @@
-.places__grid{
+.places__grid {
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   display: grid;
@@ -14,22 +14,22 @@
 }
 
 @media (max-width: 1024px) {
-  .places__grid{
+  .places__grid {
     grid-template-columns: 440px auto;
     max-width: 928px;
-    }
   }
+}
 
-  @media (max-width: 768px) {
-    .places__grid{
-      grid-template-columns: 340px auto;
-      max-width: 720px;
-      }
-    }
+@media (max-width: 768px) {
+  .places__grid {
+    grid-template-columns: 340px auto;
+    max-width: 720px;
+  }
+}
 
-    @media (max-width: 320px) {
-      .places__grid{
-        grid-template-columns: 320px;
-        margin: 64px auto 0;
-        }
-      }
+@media (max-width: 320px) {
+  .places__grid {
+    grid-template-columns: 320px;
+    margin: 64px auto 0;
+  }
+}

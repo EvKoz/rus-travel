@@ -1,4 +1,4 @@
-.places__website-prefix{
+.places__website-prefix {
   margin: 0;
   font-family: Inter;
   text-transform: uppercase;
@@ -7,7 +7,7 @@
   max-height: 30px;
 }
 
-.places__website-adress{
+.places__website-adress {
   font-family: Inter;
   line-height: 22px;
   font-size: 18px;
@@ -15,6 +15,6 @@
   color: white;
 }
 
-.places__website{
+.places__website {
   align-self: end;
 }

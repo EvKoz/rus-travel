@@ -1,4 +1,4 @@
-.header__lang-link{
+.header__lang-link {
   color: white;
   max-width: 178px;
   max-height: 28px;
@@ -12,15 +12,15 @@
   display: none;
 }
 
-.header__lang-link input[type=radio]:checked + label {
+.header__lang-link input[type=radio]:checked+label {
   text-decoration: underline;
 }
 
 @media (max-width: 320px) {
-  .header__lang-link{
+  .header__lang-link {
     max-width: 62px;
     max-height: 20px;
     font-size: 18px;
     line-height: 20px;
-    }
   }
+}

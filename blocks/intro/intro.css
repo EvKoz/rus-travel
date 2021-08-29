@@ -1,16 +1,14 @@
-.intro{
+.intro {
   max-width: 984px;
   margin: auto;
   color: white;
   justify-content: flex-start;
   display: flex;
   flex-direction: column;
-  grid-area: intro;
 }
-
 
 @media (max-width: 320px) {
-  .intro{
-margin: 0;
-}
+  .intro {
+    margin: 0;
+  }
 }

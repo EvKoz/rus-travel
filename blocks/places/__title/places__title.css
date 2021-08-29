@@ -1,4 +1,4 @@
-.places__title{
+.places__title {
   margin: 0;
   font-family: Inter;
   font-size: 72px;
@@ -7,10 +7,10 @@
 }
 
 @media (max-width: 320px) {
-  .places__title{
+  .places__title {
     font-size: 32px;
-  font-weight: 900;
-  line-height: 35px;
-  max-width: 288px;
-    }
+    font-weight: 900;
+    line-height: 35px;
+    max-width: 288px;
   }
+}

@@ -1,13 +1,12 @@
-.lead{
+.lead {
   display: flex;
   max-width: 984px;
   margin: auto;
   flex-direction: column;
-  grid-area: lead;
 }
 
 @media (max-width: 1024px) {
-  .lead{
-  max-width: 928px;
-}
+  .lead {
+    max-width: 928px;
+  }
 }

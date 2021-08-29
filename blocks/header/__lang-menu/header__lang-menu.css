@@ -1,19 +1,16 @@
-.header__lang-menu{
-display: flex;
-margin: 46px 48px 0 auto;
+.header__lang-menu {
+  display: flex;
+  margin: 46px 48px 0 auto;
 }
 
-.header__lang-menu-ru{
-margin-right: 18px;
+.header__lang-menu-ru {
+  margin-right: 18px;
 }
 
-.header__lang-menu-en{
-
-}
-
+.header__lang-menu-en {}
 
 @media (max-width: 320px) {
-  .header__lang-menu{
+  .header__lang-menu {
     margin: 30px 16px 0 auto;
-    }
   }
+}

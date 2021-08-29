@@ -1,4 +1,4 @@
-.header__logo-img{
+.header__logo-img {
   max-width: 176px;
   max-height: 52px;
   display: flex;
@@ -6,12 +6,10 @@
   margin: 28px auto auto 48px;
 }
 
-
 @media (max-width: 320px) {
-  .header__logo-img{
-  max-width: 142px;
-  max-height: 42px;
-  margin: 16px 0 0 16px;
+  .header__logo-img {
+    max-width: 142px;
+    max-height: 42px;
+    margin: 16px 0 0 16px;
+  }
 }
-}
-
