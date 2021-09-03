@@ -1,5 +1,5 @@
 @import url(../pages/index.css);
-@import url(../pages/page.css);
+@import url(../blocks/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo-img/header__logo-img.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
@@ -28,7 +28,7 @@
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/footer__copyright.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__link/footer__link-website.css);
 @import url(../blocks/footer/__link/footer__link-list.css);

@@ -1,7 +1,7 @@
 .intro__text {
   display: flex;
   max-width: 690px;
-  max-height: 208px;
+  height: 208px;
   font-size: 14px;
   font-weight: 400;
   line-height: 26.08px;
@@ -12,7 +12,7 @@
   .intro__text {
     font-size: 16px;
     max-width: 288px;
-    max-height: 520px;
+    height: 520px;
     margin: 40px 0 34px;
   }
 }
