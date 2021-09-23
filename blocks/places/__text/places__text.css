@@ -13,7 +13,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 350px) {
   .places__text {
     max-width: 288px;
   }

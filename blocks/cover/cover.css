@@ -19,7 +19,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 350px) {
   .cover {
     height: 200px;
     margin: 66px 0 64px;

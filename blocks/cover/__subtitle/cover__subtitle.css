@@ -5,3 +5,12 @@
   line-height: 22px;
   font-weight: 400;
 }
+
+@media (max-width: 350px) {
+  .cover__subtitle {
+    margin: 33px auto 0;
+    max-width: 288px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

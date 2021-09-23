@@ -9,6 +9,13 @@
 
 .header__lang-menu-en {}
 
+@media (max-width: 350px) {
+  .header__lang-menu {
+    margin: 30px 16px 0 auto;
+  }
+}
+
+
 @media (max-width: 320px) {
   .header__lang-menu {
     margin: 30px 16px 0 auto;
