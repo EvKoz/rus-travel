@@ -19,7 +19,7 @@
   align-self: end;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 425px) {
   .places__website {
     max-width: 288px;
   }

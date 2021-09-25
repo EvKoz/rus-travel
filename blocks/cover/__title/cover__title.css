@@ -6,7 +6,7 @@
   font-weight: 900;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 425px) {
   .cover__title {
     margin: 33px auto 0;
     max-width: 288px;

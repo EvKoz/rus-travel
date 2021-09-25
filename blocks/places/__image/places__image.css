@@ -13,7 +13,7 @@
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 425px) {
   .places__image {
     grid-row-start: 2;
     grid-row-end: 4;
