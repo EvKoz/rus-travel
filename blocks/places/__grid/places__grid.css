@@ -29,6 +29,5 @@
   .places__grid {
     grid-template-columns: repeat(auto-fit, minmax(312px, 1fr));
     margin: 64px 0;
-    ;
   }
 }
