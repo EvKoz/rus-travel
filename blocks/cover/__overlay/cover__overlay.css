@@ -15,19 +15,17 @@
 @media (max-width: 1024px) {
   .cover__overlay {
     max-height: 640px;
-    margin: 0;
   }
 }
 
 @media (max-width: 768px) {
   .cover__overlay {
-    height: 640px;
-    margin: 0;
+    max-height: 480px;
   }
 }
 
 @media (max-width: 425px) {
   .cover__overlay {
-    height: 200px;
+    max-height: 200px;
   }
 }

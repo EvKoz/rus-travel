@@ -8,6 +8,16 @@
   margin: 100px 0 0;
 }
 
+@media (max-width: 768px) {
+  .intro__title {
+    max-width: 720px;
+    font-size: 54px;
+    line-height: 58px;
+    margin: 88px auto 0;
+  }
+}
+
+
 @media (max-width: 425px) {
   .intro__title {
     max-width: 288px;
