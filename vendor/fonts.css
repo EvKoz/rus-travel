@@ -15,48 +15,48 @@
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Black.woff2) format ('woff2');
+  src: url(../../russian-travel/vendor/Inter-Black.woff2) format ('woff2');
   font-weight: 900;
 }
 
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Regular.woff) format ('woff');
+  src: url(../../russian-travel/vendor/Inter-Regular.woff) format ('woff');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Bold.woff) format ('woff');
+  src: url(../../russian-travel/vendor/Inter-Bold.woff) format ('woff');
   font-weight: 700;
 }
 
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Black.woff) format ('woff');
+  src: url(../../russian-travel/vendor/Inter-Black.woff) format ('woff');
   font-weight: 900;
 }
 
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Regular.ttf) format ('ttf');
+  src: url(../../russian-travel/vendor/Inter-Regular.ttf) format ('ttf');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Bold.ttf) format ('ttf');
+  src: url(../../russian-travel/vendor/Inter-Bold.ttf) format ('ttf');
   font-weight: 700;
 }
 
 @font-face {
   font-family: 'Inter';
   font-style: normal;
-  src: url(../vendor/Inter-Black.ttf) format ('ttf');
+  src: url(../../russian-travel/vendor/Inter-Black.ttf) format ('ttf');
   font-weight: 900;
 }
