@@ -4,7 +4,6 @@
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 400;
-  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 .places__website-adress {
@@ -13,7 +12,6 @@
   font-size: 18px;
   font-weight: 400;
   color: white;
-  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 .places__website {
