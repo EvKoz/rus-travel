@@ -24,6 +24,5 @@
 @media (max-width: 425px) {
   .places__website {
     max-width: 288px;
-    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
