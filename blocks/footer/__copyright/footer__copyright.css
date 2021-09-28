@@ -4,6 +4,7 @@
   font-weight: 400;
   max-width: 186px;
   margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 @media (max-width: 600px) {
