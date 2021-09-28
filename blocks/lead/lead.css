@@ -1,6 +1,7 @@
 .lead {
   display: flex;
   max-width: 984px;
+  max-height: 1005px;
   margin: auto;
   flex-direction: column;
 }
@@ -8,11 +9,20 @@
 @media (max-width: 1024px) {
   .lead {
     max-width: 928px;
+    max-height: 962px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead {
+    max-width: 768px;
+    max-height: 862px;
   }
 }
 
 @media (max-width: 425px) {
   .lead {
     max-width: 320px;
+    max-height: 406px;
     }
 }
