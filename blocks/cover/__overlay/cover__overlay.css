@@ -16,17 +16,20 @@
 @media (max-width: 1024px) {
   .cover__overlay {
     max-height: 640px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
 @media (max-width: 768px) {
   .cover__overlay {
     max-height: 480px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
 @media (max-width: 425px) {
   .cover__overlay {
     max-height: 200px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

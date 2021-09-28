@@ -5,6 +5,7 @@
   font-size: 12px;
   font-weight: 400;
   height: 30px;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 .places__website-adress {
@@ -13,14 +14,17 @@
   font-size: 18px;
   font-weight: 400;
   color: white;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 .places__website {
   align-self: end;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 @media (max-width: 425px) {
   .places__website {
     max-width: 288px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

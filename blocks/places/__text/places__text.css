@@ -4,17 +4,20 @@
   line-height: 29.34px;
   font-size: 18px;
   font-weight: 400;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 @media (max-width: 768px) {
   .places__text {
     line-height: 26.08px;
     font-size: 16px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
 @media (max-width: 425px) {
   .places__text {
     max-width: 288px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

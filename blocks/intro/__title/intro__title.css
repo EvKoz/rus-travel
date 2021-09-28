@@ -6,6 +6,7 @@
   font-weight: 900;
   line-height: 58px;
   margin: 100px 0 0;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 @media (max-width: 768px) {
@@ -14,6 +15,7 @@
     font-size: 54px;
     line-height: 58px;
     margin: 88px auto 0;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
@@ -24,5 +26,6 @@
     font-size: 32px;
     line-height: 35px;
     margin: 64px auto 0;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

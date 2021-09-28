@@ -1,10 +1,12 @@
 .header__lang-menu {
   display: flex;
   margin: 46px 48px 0 auto;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 .header__lang-menu-ru {
   margin-right: 18px;
+  font-family: 'Inter', 'Arial', sans-serif;
 }
 
 .header__lang-menu-en {}
@@ -12,11 +14,13 @@
 @media (max-width: 350px) {
   .header__lang-menu {
     margin: 30px 16px 0 auto;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
 @media (max-width: 425px) {
   .header__lang-menu {
     margin: 30px 16px 0 auto;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

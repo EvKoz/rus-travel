@@ -1,6 +1,6 @@
 .places__grid {
   color: white;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
   display: grid;
   gap: 2em;
   max-width: 984px;
@@ -16,12 +16,14 @@
 @media (max-width: 1024px) {
   .places__grid {
     grid-template-columns: 440px auto;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
 @media (max-width: 768px) {
   .places__grid {
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
@@ -29,5 +31,6 @@
   .places__grid {
     grid-template-columns: repeat(auto-fit, minmax(312px, 1fr));
     margin: 64px 0;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

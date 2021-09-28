@@ -1,4 +1,4 @@
-/*.lead__image {}
+.lead__image {}
 
 @media (max-width: 1024px) {
   .lead__image {
@@ -20,4 +20,3 @@
     max-height: 200px;
   }
 }
-*/

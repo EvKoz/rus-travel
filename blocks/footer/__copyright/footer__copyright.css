@@ -10,5 +10,6 @@
 @media (max-width: 600px) {
   .footer__copyright {
     margin: 48px auto 24px 16px;
+    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
