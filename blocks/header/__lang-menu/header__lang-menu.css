@@ -9,7 +9,13 @@
   font-family: 'Inter', 'Arial', sans-serif;
 }
 
-.header__lang-menu-en {}
+.header__lang-menu-ru {
+  cursor: pointer;
+}
+
+.header__lang-menu-en {
+  cursor: pointer;
+}
 
 @media (max-width: 350px) {
   .header__lang-menu {
