@@ -6,7 +6,7 @@
   margin: auto;
   flex-direction: column;
 }
-
+/*
 @media (max-width: 1024px) {
   .lead {
     max-width: 928px;
@@ -27,3 +27,4 @@
     max-height: 406px;
     }
 }
+*/

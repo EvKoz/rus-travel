@@ -13,31 +13,7 @@
 
 @media (max-width: 950px) {
   .lead__image {
-    max-height: 580px;
+    max-height: 100%;
     max-width: 100%;
   }
 }
-/*
-@media (max-width: 768px) {
-  .lead__image {
-    max-height: 480px;
-    max-width: 768px;
-  }
-}
-
-
-@media (max-width: 767px) {
-  .lead__image {
-    max-height: 520px;
-    max-width: 400px;
-  }
-}
-
-@media (max-width: 425px) {
-  .lead__image {
-    margin: 40px 0 0;
-    max-width: 320px;
-    max-height: 200px;
-  }
-}
-*/
