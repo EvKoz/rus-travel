@@ -9,11 +9,11 @@
   font-family: 'Inter', 'Arial', sans-serif;
 }
 
-.header__lang-menu-ru {
+.header__lang-menu-ru:hover {
   cursor: pointer;
 }
 
-.header__lang-menu-en {
+.header__lang-menu-en:hover {
   cursor: pointer;
 }
 
