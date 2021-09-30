@@ -1,0 +1,8 @@
+.anchor {
+  cursor: pointer;
+}
+
+.anchor:hover {
+  opacity: 0.8;
+
+}
