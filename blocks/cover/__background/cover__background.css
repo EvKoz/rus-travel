@@ -5,29 +5,26 @@
   background-image: url('../../../images/cover-trains.jpg');
   background-size: cover;
   max-width: 1184px;
-  max-height: 740px;
+  min-height: 740px;
   font-family: 'Inter', 'Arial', sans-serif;
 }
 
 @media (max-width: 1024px) {
   .cover__background {
-    height: 640px;
-    font-family: 'Inter', 'Arial', sans-serif;
+    min-height: 640px;
   }
 }
 
 @media (max-width: 768px) {
   .cover__background {
     max-width: 768px;
-    max-height: 480px;
-    font-family: 'Inter', 'Arial', sans-serif;
+    min-height: 480px;
   }
 }
 
 @media (max-width: 425px) {
   .cover__background {
-    height: 200px;
+    min-height: 200px;
     margin: 66px 0 64px;
-    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
