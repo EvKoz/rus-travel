@@ -1,0 +1,9 @@
+.places__website-prefix {
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: rgba(170, 170, 170, 1);
+}
