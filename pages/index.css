@@ -46,3 +46,7 @@ a:hover {
 body {
   background-color: #2A2C2F;
 }
+
+figure {
+margin: 0;
+}
