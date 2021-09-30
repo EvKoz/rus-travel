@@ -15,10 +15,8 @@
   .lead__title {
     max-width: 650px;
     font-size: 80px;
-    font-weight: 900;
     line-height: 90px;
     margin: 48px auto 16px;
-    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
@@ -26,10 +24,7 @@
   .lead__title {
     max-width: 350px;
     font-size: 50px;
-    font-weight: 900;
     line-height: 60px;
-    margin: 48px auto 16px;
-    font-family: 'Inter', 'Arial', sans-serif;
   }
 }
 
@@ -37,9 +32,6 @@
   .lead__title {
     max-width: 288px;
     font-size: 40px;
-    font-weight: 900;
     line-height: 44px;
-    margin: 48px auto 16px;
-    font-family: 'Inter', 'Arial', sans-serif;
   }
 }

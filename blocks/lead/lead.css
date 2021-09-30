@@ -2,10 +2,10 @@
   display: flex;
   position: relative;
   max-width: 984px;
-  max-height: 1005px;
   margin: auto;
   flex-direction: column;
 }
+
 /*
 @media (max-width: 1024px) {
   .lead {
