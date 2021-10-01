@@ -9,7 +9,7 @@
   font-family: 'Inter', 'Arial', sans-serif;
 }
 
-@media (max-width: 1050px){
+@media (max-width: 1050px) {
   .footer {
     max-width: 928px;
   }
@@ -17,9 +17,10 @@
 
 @media (max-width: 790px) {
   .footer {
-margin: 88px auto 24px;
-max-width: 720px;
-
+    margin: 88px auto 24px;
+    max-width: 720px;
+  }
+}
 
 @media (max-width: 600px) {
   .footer {
@@ -28,20 +29,3 @@ max-width: 720px;
     max-width: 320px;
   }
 }
-
-/*
-@media (max-width: 1024px) {
-  .footer {
-    max-width: 928px;
-    margin: 92px auto 24px;
-    font-family: 'Inter', 'Arial', sans-serif;
-  }
-}
-
-@media (max-width: 768px) {
-  .footer {
-    margin: 92px 24px 24px;
-    font-family: 'Inter', 'Arial', sans-serif;
-  }
-}
-*/
