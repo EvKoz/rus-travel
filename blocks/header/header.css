@@ -4,6 +4,7 @@
   justify-content: space-between;
   align-items: flex-end;
   margin: 28px auto 0;
+  /*border: 1px solid red;*/
 }
 
 @media (max-width: 1050px) {
@@ -21,7 +22,7 @@
 @media (max-width: 425px) {
   .header {
     max-width: 288px;
-    margin: 16px auto 0;
+    margin: 16px auto;
     align-items: center;
   }
 }
