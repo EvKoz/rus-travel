@@ -5,13 +5,13 @@
   width: 176px;
   height: 52px;
   margin: 0;
-
+  background-size: cover;
 }
 
 @media (max-width: 425px) {
   .header__logo-link {
     max-width: 142px;
     max-height: 42px;
-    margin: 16px 0 0 16px;
+    margin: 0;
   }
 }

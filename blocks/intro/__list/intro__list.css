@@ -7,3 +7,9 @@
   font-weight: 400;
   font-family: 'Inter', 'Arial', sans-serif;
 }
+
+@media (max-width: 790px) {
+  .intro__list {
+    margin-left: 24px;
+  }
+}

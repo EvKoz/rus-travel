@@ -8,3 +8,15 @@
   font-family: 'Inter', 'Arial', sans-serif;
   letter-spacing: 1.5px;
 }
+
+@media (max-width: 790px) {
+  .lead__image-caption {
+    margin-left: 24px;
+  }
+}
+
+@media (max-width: 425px) {
+  .lead__image-caption {
+    margin-left: 16px;
+  }
+}

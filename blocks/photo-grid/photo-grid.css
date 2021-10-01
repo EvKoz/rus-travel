@@ -2,6 +2,19 @@
   margin: 92px auto 0;
   max-width: 1184px;
 }
+
+@media (max-width: 1050px){
+  .photo-grid{
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 790px) {
+  .photo-grid {
+margin: 80px 24px 0;
+  }
+}
+
 /*
 @media (max-width: 425px) {
   .photo-grid {

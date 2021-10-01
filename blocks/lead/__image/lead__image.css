@@ -4,9 +4,8 @@
   max-height: 615px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1050px) {
   .lead__image {
-    max-height: 580px;
     max-width: 928px;
   }
 }
