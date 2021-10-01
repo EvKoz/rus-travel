@@ -5,6 +5,6 @@
 
 @media (max-width: 425px) {
   .places__website {
-    max-width: 288px;
+    margin-left: 16px;
   }
 }

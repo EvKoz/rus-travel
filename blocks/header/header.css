@@ -22,5 +22,6 @@
   .header {
     max-width: 288px;
     margin: 16px auto 0;
+    align-items: center;
   }
 }

@@ -8,7 +8,7 @@
   font-weight: 400;
 }
 
-.header__lang-menu:first-of-type{
+.header__lang-menu:first-of-type {
   margin-right: 18px;
 }
 
@@ -18,8 +18,7 @@
 
 @media (max-width: 425px) {
   .header__lang-menu {
-    margin: 0;
     font-size: 18px;
-  line-height: 20px;
+    line-height: 20px;
   }
 }
