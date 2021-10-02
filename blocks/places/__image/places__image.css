@@ -16,6 +16,7 @@
 @media (max-width: 425px) {
   .places__image {
     max-width: 100%;
+    margin: auto;
     grid-row-start: 3;
   }
 }
