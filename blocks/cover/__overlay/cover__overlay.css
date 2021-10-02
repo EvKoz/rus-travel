@@ -13,13 +13,13 @@
   background-color: rgba(42, 44, 47, .8);
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1050px) {
   .cover__overlay {
     min-height: 640px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 790px) {
   .cover__overlay {
     min-height: 480px;
   }

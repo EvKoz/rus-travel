@@ -1,5 +1,5 @@
 .cover__background {
-  margin: 0 auto;
+  margin: 90px auto 0;
   color: white;
   text-align: center;
   background-image: url('../../../images/cover-trains.jpg');
@@ -9,7 +9,7 @@
   font-family: 'Inter', 'Arial', sans-serif;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1050px) {
   .cover__background {
     min-height: 640px;
   }

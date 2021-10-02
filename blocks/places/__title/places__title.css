@@ -2,6 +2,7 @@
   margin: 0;
   font-family: 'Inter', 'Arial', sans-serif;
   font-size: 72px;
+  line-height: 76px;
   font-weight: 900;
   max-width: 460px;
 }
@@ -10,7 +11,9 @@
   .places__title {
     font-size: 42px;
     line-height: 46px;
-    max-width: 340px;
+  }
+  .places__title:first-of-type{
+    padding-right: 10px;
   }
 }
 
