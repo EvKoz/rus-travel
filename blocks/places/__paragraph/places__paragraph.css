@@ -5,3 +5,9 @@
 .places__paragraph:nth-of-type(1) {
   margin: 0;
 }
+
+@media (max-width: 450px){
+  .places__paragraph {
+    margin: 25px 0 0;
+  }
+}
