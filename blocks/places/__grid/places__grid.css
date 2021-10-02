@@ -23,8 +23,9 @@
 @media (max-width: 790px) {
   .places__grid {
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-    /*grid-template-columns: 340px 352px;*/
-    margin: 25px auto 0;
+    /*grid-template-columns: 340px 352px;
+    margin: 25px 24px 24px 0;*/
+    max-width: 720px;
     row-gap: 48px;
   }
 }
