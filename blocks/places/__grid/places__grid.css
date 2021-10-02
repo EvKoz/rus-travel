@@ -25,17 +25,18 @@
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     max-width: 720px;
     row-gap: 48px;
+    margin: 73px auto 0;
   }
-}
-
-.places__grid:first-of-type {
-  margin-top: 88px;
+  .places__grid:first-of-type {
+    margin-top: 88px;
+  }
 }
 
 @media (max-width: 425px) {
   .places__grid {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     row-gap: 32px;
+    margin: 50px auto 0;
   }
   .places__grid:first-of-type {
     margin-top: 64px;
