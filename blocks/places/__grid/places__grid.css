@@ -24,21 +24,26 @@
   .places__grid {
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     /*grid-template-columns: 340px 352px;*/
-    margin: 73px 24px 0;
+    margin: 25px 24px 0;
+    row-gap: 48px;
+  }
+}
+
+.places__grid:first-of-type {
+  margin-top: 88px;
+}
+
+@media (max-width: 425px) {
+  .places__grid {
+    /*grid-template-columns: repeat(auto-fit, minmax(312px, 1fr));
+    margin: 64px 0;*/
+    /*grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));*/
+    grid-template-columns: 320px;
+    margin: 50px 0;
   }
   .places__grid:first-of-type {
-    margin-top: 88px;
+    margin-top: 64px;
   }
-  @media (max-width: 425px) {
-    .places__grid {
-      /*grid-template-columns: repeat(auto-fit, minmax(312px, 1fr));
-    margin: 64px 0;*/
-      /*grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));*/
-      grid-template-columns: 320px;
-      margin: 50px 0;
-    }
-    .places__grid:first-of-type {
-      margin-top: 64px;
-    }
-  }
+}
+
 }

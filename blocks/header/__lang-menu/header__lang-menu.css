@@ -13,10 +13,6 @@
   margin: 0 0 0 18px;
 }
 
-.header__lang-menu_active {
-  text-decoration: underline;
-}
-
 @media (max-width: 425px) {
   .header__lang-menu {
     font-size: 18px;
