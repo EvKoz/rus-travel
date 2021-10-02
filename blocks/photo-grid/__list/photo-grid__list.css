@@ -6,3 +6,10 @@
   margin: 0 auto;
   list-style-type: none;
 }
+
+@media (max-width: 425px) {
+  .photo-grid__list {
+    gap: 12px;
+    grid-template-rows: repeat(12, 216px);
+  }
+}

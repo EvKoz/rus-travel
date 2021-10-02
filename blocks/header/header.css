@@ -21,7 +21,7 @@
 @media (max-width: 425px) {
   .header {
     max-width: 288px;
-    margin: 16px auto;
+    margin: 16px auto 0;
     align-items: center;
   }
 }
